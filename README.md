@@ -1,2 +1,1 @@
-# NT
-neuro-transformer for research 
+pps project
